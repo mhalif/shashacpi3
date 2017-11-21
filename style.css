@@ -1,0 +1,164 @@
+*{
+	margin: 0;
+	padding: 0;
+	outline: 0;
+}
+body{
+	font-family: raleway;
+	font-size: 14px;
+	background: #000;
+}
+.container{
+	width: 920px;
+	margin: auto;
+}
+.header {
+  background: #333 none repeat scroll 0 0;
+  color: #fff;
+  height: 100px;
+  padding: 0 50px;
+}
+.logo {
+  float: left;
+  padding-top: 19px;
+  width: 300px;
+}
+.logo h2 {
+  font-size: 46px;
+  font-weight: normal;
+}
+.logo span {
+  color: #e4501d;
+}
+.menu {
+  float: right;
+  padding-top: 39px;
+  width: 400px;
+}
+.menu a {
+  color: #fff;
+  display: inline-block;
+  font-size: 14px;
+  padding-left: 26px;
+  text-decoration: none;
+}
+.menu a:hover{
+	color: #e4501d;
+}
+#active{
+	color: #e4501d;
+}
+.mainContent{background: #fff;}
+.sloganArea {
+  border-bottom: 2px dotted #666;
+  padding: 27px 50px 18px;
+}
+.sloganArea h2 {
+  color: #444;
+  font-size: 35px;
+  padding-bottom: 3px;
+}
+.sloganArea h3 {
+  color: #777;
+  font-size: 26px;
+  font-weight: normal;
+}
+.sloganArea span{color: #e4501d;}
+.slidertopPara{}
+.slidertopPara p {
+  font-size: 24px;
+  padding: 30px 50px;
+}
+.contenslider {
+  background: #ff6f3c none repeat scroll 0 0;
+  margin: 30px 50px 0 50px;
+}
+.slideAreaText {
+  color: #fff;
+  float: left;
+  padding: 60px 43px 43px;
+  text-align: center;
+  width: 40%;
+}
+.slideAreaText h2 {
+  font-size: 25px;
+  margin: auto;
+  padding-bottom: 15px;
+  width: 191px;
+}
+.slideAreaText p {
+  font-size: 15px;
+  padding-top: 21px;
+}
+.slideAreaImg{width: 40%;float: right;}
+.slideAreaImg img {
+  height: 217px;
+  margin-bottom: 39px;
+  margin-top: 40px;
+  width: 300px;
+}
+.overflow{
+	overflow: hidden;
+}
+.balSection {
+  background: #fff none repeat scroll 0 0;
+  margin-top: -30px;
+}
+
+
+
+.allServices {
+  padding: 30px 50px 30px 26px;
+  border-top: 2px dotted #444;
+  border-bottom: 2px dotted #444;
+  margin-top: 15px;
+}
+.servicesArea {
+  background: #fff none repeat scroll 0 0;
+  
+}
+.singleService {
+  background: #eb6835 none repeat scroll 0 0;
+  color: #fff;
+  float: left;
+  margin-left: 28px;
+  padding: 30px 28px;
+  text-align: center;
+  width: 196px;
+}
+.singleService h2 {
+  border-bottom: 2px dotted;
+  padding-bottom: 13px;
+}
+.singleService p {
+  font-size: 15px;
+  line-height: 20px;
+  padding: 20px 0;
+}
+.detailesBTN {
+  background: #fff;
+  text-transform: uppercase;
+}
+.detailesBTN a {
+  color: #eb6835;
+  display: block;
+  font-size: 16px;
+  padding: 8px;
+  text-decoration: none;
+}
+.footer{}
+.footer {
+  background: #fff none repeat scroll 0 0;
+  padding: 16px;
+  text-align: center;
+  font-size: 16px;
+}
+.footer p a {
+  color: #333;
+  font-size: 16px;
+}
+.{}
+.{}
+.{}
+.{}
+.{}
